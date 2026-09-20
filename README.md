@@ -27,7 +27,7 @@ Welcome to my personal QA Portfolio repository! I am a **Quality Assurance & Aut
 
 ## 💼 Professional Summary
 
-* **Current Role:** Quality Assurance Engineer at **Avertra Corp** (Chennai, India).
+* **Current Role:** Quality Assurance Engineer at **Avertra Corp** (India).
 * **Core Impact:**
   * Spearheaded UI, API, and performance testing for enterprise banking and business management suites.
   * Authored, executed, and maintained 600+ test cases per service in Zephyr Scale mapped directly to sprint deliverables.
